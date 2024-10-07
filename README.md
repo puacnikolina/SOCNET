@@ -4,8 +4,8 @@ Ovaj projekat implementira Batagelj-Zaveršnik algoritam za dekompoziciju mreža
 
 ## **Specifikacije**
 
-JDK verzija: 19
-Korišćene biblioteke: JUNG i Apache Commons Math 3.6.1
+- JDK Verzija: 19
+- Korišćene biblioteke: JUNG and Apache Commons Math 3.6.1
 
 ## **Mogućnosti**
 
